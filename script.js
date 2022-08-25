@@ -1,4 +1,4 @@
-const username = '2KAbhishek';
+const username = 'Wjplatformer';
 const maxPages = 2;
 const hideForks = true;
 const repoList = document.querySelector('.repo-list');
