@@ -1,6 +1,6 @@
 const username = 'Wjplatformer';
 const maxPages = 2;
-const hideForks = false;
+const hideForks = true;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
 const filterInput = document.querySelector('.filter-repos');
